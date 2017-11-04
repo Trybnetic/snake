@@ -1,12 +1,15 @@
 # Snake in Scheme
 
-## About
+[![License](https://img.shields.io/github/license/Trybnetic/snake.svg)](https://github.com/Trybnetic/snake/blob/master/LICENSE.txt)  
+
 An implementation of the classic game "Snake" written in Scheme
 
-## Requirements
-- `git`
-- `drracket`
+## Usage
+To use this repository clone this repository to your local machine switch to
+the folder and start it with `drracket`:
 
-## Play
-1. Clone this repository with `git clone http://github.com/Trybnetic/snake.git`
-2. Excute the programm with `drracket snake.rkt`
+```
+git clone https://github.com/Trybnetic/snake.git
+cd snake
+drracket snake.rkt
+```
